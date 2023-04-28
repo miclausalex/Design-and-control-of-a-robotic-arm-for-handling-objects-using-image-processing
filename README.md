@@ -8,7 +8,6 @@ Python image processing with Arduino IDE for control, and MATLAB for simulations
     Design and control of a robotic arm for handling objects using image processing
     
 Abstract
-
     The present paper aims at the study of industrial robots and the development of a prototype that is subsequently controlled with the help of the process
 of identifying the positions of objects.
     Chapter 1 presents a brief introduction to mechatronics, a brief description of industrial robots and justifies the choice of project theme.
